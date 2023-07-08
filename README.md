@@ -1,1 +1,1 @@
-# Spend money. Svelte 
+# Spend money. Svelte.
