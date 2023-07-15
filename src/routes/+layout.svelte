@@ -1,5 +1,4 @@
 <div class="container">
-	<!-- Pages will be injected below -->
 	<slot />
 </div>
 
